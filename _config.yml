@@ -13,7 +13,7 @@ search: true
 search_full_content: true
 
 author:
-  name   : "Emiliano"
+  name   : "Emiliano Fitzgerald"
   avatar : "/assets/images/profile.jpg"   # optional
   bio    : "Robotics engineer passionate about AI, embedded systems, and practical problem solving."
   location: "Rome, Italy"
