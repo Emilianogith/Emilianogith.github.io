@@ -1,5 +1,5 @@
-title: "Emiliano"
-name: "Emiliano Paradiso"
+title: "Emiliano Paradiso"
+name: "Emiliano"
 description: "Robotics engineer passionate about AI, problem solving, and building systems that work better than before."
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
@@ -7,6 +7,9 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "default"
+
+search: true
+search_full_content: true
 
 author:
   name   : "Emiliano"
