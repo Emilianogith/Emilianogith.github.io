@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
   - title: "Resume"
     url: /assets/files/CV.pdf
+  - title: "Portfolio"
+    url: /projects/
