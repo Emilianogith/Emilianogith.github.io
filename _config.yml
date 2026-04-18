@@ -10,7 +10,7 @@ minimal_mistakes_skin: "default"
 
 author:
   name   : "Emiliano"
-  avatar : "/assets/images/profile.jpg"   # optional
+  avatar : "/assets/images/profile.jpeg"   # optional
   bio    : "Robotics engineer passionate about AI, embedded systems, and practical problem solving."
   location: "Italy"
   links:
