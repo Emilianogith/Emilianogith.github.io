@@ -1,6 +1,5 @@
-title: "Emiliano Paradiso"
+title: "Home"
 name: "Emiliano Paradiso"
-masthead_title: "Emiliano Paradiso"
 description: "Robotics engineer passionate about AI, problem solving, and building systems that work better than before."
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
@@ -13,7 +12,7 @@ search: true
 search_full_content: true
 
 author:
-  name   : "Emiliano Fitzgerald"
+  name   : "Emiliano Paradiso"
   avatar : "/assets/images/profile.jpg"   # optional
   bio    : "Robotics engineer passionate about AI, embedded systems, and practical problem solving."
   location: "Rome, Italy"
