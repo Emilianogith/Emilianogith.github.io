@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: single
 title: Portfolio
 permalink: /portfolio/
+classes: wide
+author_profile: false
 ---
 
 # Projects
