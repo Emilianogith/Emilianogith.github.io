@@ -1,8 +1,7 @@
 title: "Emiliano"
 name: "Emiliano"
-description: "Robotics engineer passionate about AI, embedded systems, and hands-on problem solving."
-
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+description: "Robotics engineer passionate about AI, problem solving, and building systems that work better than before."
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 plugins:
   - jekyll-include-cache
@@ -11,12 +10,21 @@ minimal_mistakes_skin: "default"
 
 author:
   name   : "Emiliano"
-  bio    : "Robotics engineer passionate about AI, embedded systems, and building systems that work better than before."
+  avatar : "/assets/images/profile.jpg"   # optional
+  bio    : "Robotics engineer passionate about AI, embedded systems, and practical problem solving."
   location: "Italy"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/Emilianogith"
+      url: "https://github.com/emilianogith"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/emiliano-paradiso"
+      url: "https://www.linkedin.com/in/YOUR-LINKEDIN"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
