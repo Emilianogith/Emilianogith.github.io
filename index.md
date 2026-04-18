@@ -1,16 +1,15 @@
 ---
-layout: default
-title: Home
+layout: home
+author_profile: true
+title: "Hello there!"
 ---
 
-# Emiliano
+I’m Emiliano, a robotics engineer passionate about AI, robotics, and hands-on technical problem solving.
 
-Robotics engineer passionate about AI, problem solving, and building systems that work better than before.
+I enjoy building, improving, and fixing systems to make them more effective and reliable.
 
-## About me
-Curious, hands-on, and strongly motivated in robotics and intelligent systems.
-
-## Links
-- [About](/about/)
-- [Projects](/projects/)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+Here you can find:
+- information about me
+- my projects
+- my CV
+- useful links
