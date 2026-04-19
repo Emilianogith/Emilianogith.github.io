@@ -23,7 +23,7 @@ It is an experimental research project focused on controlling an intrinsically u
 
 ## [MPC for dynamic locomotion of the Lite3 quadruped robot](https://github.com/Emilianogith/MPC-for-dynamic-locomotion-in-the-MIT-cheetah-3)
 
-<img src="/assets/images/projects/Lite3/trotting.gif" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
+<img src="/assets/images/projects/Lite3/trotting.gif" alt="Lite3" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
 This project focuses on the development of a simulated quadruped locomotion framework based on Model Predictive Control. The framework was implemented in Python and validated in simulation using DARTpy with the Lite3 quadruped robot by DeepRobotics.
 
@@ -34,7 +34,7 @@ This project focuses on the development of a simulated quadruped locomotion fram
 ## [MOD-RRT for real time planning in dynamic environments](https://github.com/Emilianogith/MOD-RRT-for-real-time-planning-in-dynamic-environments)
 
 
-<img src="/assets/images/projects/MOD_RRT/obs_avoid.gif" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
+<img src="/assets/images/projects/MOD_RRT/obs_avoid.gif" alt="RRT" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
 This project focuses on motion planning for mobile robots operating in dynamic environments, where safe and efficient navigation requires continuous adaptation to unforeseen obstacles. The work builds on MOD-RRT*, a sampling-based replanning algorithm capable of generating paths optimized for length and smoothness. The framework is implemented in Python using ROS and validated in simulation in Gazebo.
 
@@ -44,7 +44,7 @@ This project focuses on motion planning for mobile robots operating in dynamic e
 
 ## [RL Hindsight goal ranking for pick and place tasks](https://github.com/Emilianogith/RL_project-Hindsight-Goal-Ranking-for-Pick-and-Place-tasks)
 
-<img src="/assets/images/projects/RL/pick.png" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
+<img src="/assets/images/projects/RL/pick.png" alt="RL" style="width: 40%; height: auto; display: block; margin: 0 auto;">
 
 This project focuses on the implementation and evaluation of a reinforcement learning approach for robotic manipulation in sparse reward environments, where learning successful behaviors is particularly challenging due to the limited feedback available to the agent. The approach is applied to a fixed-base manipulator performing a pick-and-place task in simulation, using the OpenAI Gym Fetch environment.
 
@@ -62,8 +62,7 @@ This project was developed for the Probabilistic Robotics course and focuses on 
 
 ## [Graph classification in context of noisy labeled Dataset](https://github.com/Emilianogith/noisy-graph-classification)
 
-
-<img src="/assets/images/projects/noisy/architecture.png" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
+<img src="/assets/images/projects/noisy/architecture.png" alt="graph classification" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
 This project builds on a provided baseline repository and focuses on improving model robustness in the presence of noisy labels. The work explores different training strategies and architectural choices to enhance prediction quality and generalization.
 
@@ -73,11 +72,14 @@ This project builds on a provided baseline repository and focuses on improving m
 
 ## [Shared control of a teleoperated echographic probe](https://github.com/Emilianogith/Shared-control-of-a-teleoperated-echographic-probe)
 
-Short description of the project.
+<img src="/assets/images/projects/echo/linear_fast.gif" alt="shared control" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
-- Goal: ...
-- Tools: ...
-- Result: ...
+This project explores the use of shared control for the teleoperation of an echographic probe integrated with the Franka Emika Panda robot. 
+
+- **Goal:** develop a shared-control framework for the teleoperation of an echographic probe, improving precision, safety, and human–robot collaboration in medical imaging applications.
+- **Tools:** manipulator, shared control, teleoperation, impedance control, Franka Emika Panda robot, MATLAB, Robotics System Toolbox.
+- **Result:** the project demonstrated how shared control can improve cooperation between the operator and the robot during echographic probe manipulation, enabling safer, smoother, and more accurate assisted motion.
+
 
 ## [ROS simple planner](https://github.com/Emilianogith/simple_planner)
 
