@@ -57,7 +57,7 @@ This project focuses on the implementation and evaluation of a reinforcement lea
 This project was developed for the Probabilistic Robotics course and focuses on the calibration of a real front–rear tricycle-like mobile robot. The work addresses the estimation of both the robot’s kinematic parameters and the position of its onboard sensor.
 
 - **Goal:** estimate and calibrate the kinematic parameters of a front–rear tricycle-like robot together with the position of its onboard sensor, in order to improve the accuracy of the robot model.
-- **Tools:** probabilistic robotics methods, parameter estimation, kinematic calibration, sensor calibration, Python.
+- **Tools:** C++, probabilistic robotics methods, parameter estimation, kinematic calibration, sensor calibration, Python.
 - **Result:** the project provided a calibrated model of the real robotic platform, improving the consistency between the robot’s measured behavior and its kinematic and sensing models.
 
 ## [Graph classification in context of noisy labeled Dataset](https://github.com/Emilianogith/noisy-graph-classification)
@@ -93,10 +93,10 @@ This project implements a path planning framework for ROS based on the A* algori
 
 ## [Pedestrian Intention Estimation on JAAD Dataset](https://github.com/Emilianogith/CV_project)
 
-Short description of the project.
+<img src="/assets/images/projects/CV/cv.png" alt="CV" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
-- Goal: ...
-- Tools: ...
-- Result: ...
+This project explores pedestrian intention estimation for autonomous driving using computer vision, with a focus on understanding pedestrian behavior in urban environments and improving prediction reliability under challenging conditions.
 
-
+- **Goal:** improve the accuracy and robustness of pedestrian intention estimation for safer vehicle–pedestrian interaction.
+- **Tools:** Python, computer vision, Deep Learning, CNNs, LSTMs, JAAD dataset.
+- **Result:** a structured analysis of current methods, challenges, and optimization strategies for building more reliable and efficient pedestrian intention estimation systems.
