@@ -2,7 +2,6 @@
 layout: single
 title: Portfolio
 permalink: /portfolio/
-classes: wide
 author_profile: false
 ---
 
@@ -10,9 +9,9 @@ author_profile: false
 ## [Acrobatic obstacle avoidance for the TITA two-wheel legged robot](https://github.com/Emilianogith/TITA-dynamic-obstacle-avoidance)
 
 
-<img src="/assets/images/projects/thesis/tita.png" alt="TITA robot" style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+<img src="/assets/images/projects/thesis/tita.png" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
-<img src="/assets/images/projects/thesis/3_obs.gif" alt="Jumping obstacle avoidance animation" style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+<img src="/assets/images/projects/thesis/3_obs.gif" alt="Jumping obstacle avoidance animation" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
 This project was carried out as part of my Master’s degree thesis at the DIAG Robotics Lab of Sapienza University of Rome.  
 It is an experimental research project focused on controlling an intrinsically unstable robotic platform for obstacle avoidance in highly demanding dynamic scenarios, under the supervision of Prof. Giuseppe Oriolo and Dr. Nicola Scianca.
