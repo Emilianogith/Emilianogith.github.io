@@ -23,11 +23,13 @@ It is an experimental research project focused on controlling an intrinsically u
 
 ## [MPC for dynamic locomotion of the Lite3 quadruped robot](https://github.com/Emilianogith/MPC-for-dynamic-locomotion-in-the-MIT-cheetah-3)
 
-This work presents the development of a simulated quadruped locomotion system controlled through Model Predictive Control. To formulate the problem as a convex Quadratic Program suitable for MPC, several simplifying assumptions were introduced to approximate the robot’s dynamics. Simulations were performed using the Lite3 quadruped robot from DeepRobotics. A dedicated footstep planner, along with ground and swing leg controllers, was implemented and kept as simple as possible to reduce the overall complexity of the work while maintaining effective locomotion behavior. The simulation results demonstrate that the MPC framework can successfully control quadruped walking. Various gaits were tested under different conditions, showing that the controller is robust and capable of achieving stable and accurate locomotion.
+<img src="/assets/images/projects/Lite3/trotting.gif" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
-- Goal: ...
-- Tools: ...
-- Result: ...
+This project focuses on the development of a simulated quadruped locomotion framework based on Model Predictive Control. The framework was implemented in Python and validated in simulation using DARTpy with the Lite3 quadruped robot by DeepRobotics.
+
+- **Goal:** design and validate an MPC-based control framework for dynamic quadruped locomotion, capable of generating stable walking behaviors under different gait conditions.
+- **Tools:** Model Predictive Control, convex Quadratic Programming, Python, DARTpy, footstep planning, ground leg control, and swing leg control.
+- **Result:** the developed framework successfully achieved stable and accurate quadruped locomotion in simulation. Different gaits were tested under various conditions, showing good robustness and effective walking performance.
 
 ## [MOD-RRT for real time planning in dynamic environments](https://github.com/Emilianogith/MOD-RRT-for-real-time-planning-in-dynamic-environments)
 
