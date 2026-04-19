@@ -44,9 +44,7 @@ This project focuses on motion planning for mobile robots operating in dynamic e
 
 ## [RL Hindsight goal ranking for pick and place tasks](https://github.com/Emilianogith/RL_project-Hindsight-Goal-Ranking-for-Pick-and-Place-tasks)
 
-## [Reinforcement learning for pick-and-place in sparse reward environments](...)
-
-<img src="/assets/images/projects/RL/pick.gif" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
+<img src="/assets/images/projects/RL/pick.tiff" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
 This project focuses on the implementation and evaluation of a reinforcement learning approach for robotic manipulation in sparse reward environments, where learning successful behaviors is particularly challenging due to the limited feedback available to the agent. The approach is applied to a fixed-base manipulator performing a pick-and-place task in simulation, using the OpenAI Gym Fetch environment.
 
