@@ -6,8 +6,14 @@ classes: wide
 author_profile: false
 ---
 
-## Project 1
-Short description.
+## [Acrobatic obstacle avoidance for the TITA two-wheel legged robot]([https://github.com/yourusername/your-repo-name](https://github.com/Emilianogith/TITA-dynamic-obstacle-avoidance))
+
+Short description of the project.
+
+- Goal: ...
+- Tools: ...
+- Result: ...
+
 
 ## Project 2
 Short description.
