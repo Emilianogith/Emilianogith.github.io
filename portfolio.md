@@ -33,19 +33,26 @@ This project focuses on the development of a simulated quadruped locomotion fram
 
 ## [MOD-RRT for real time planning in dynamic environments](https://github.com/Emilianogith/MOD-RRT-for-real-time-planning-in-dynamic-environments)
 
-Short description of the project.
 
-- Goal: ...
-- Tools: ...
-- Result: ...
+<img src="/assets/images/projects/MOD_RRT/obs_avoid.gif" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
+
+This project focuses on motion planning for mobile robots operating in dynamic environments, where safe and efficient navigation requires continuous adaptation to unforeseen obstacles. The work builds on MOD-RRT*, a sampling-based replanning algorithm capable of generating paths optimized for length and smoothness. The framework is implemented in Python using ROS and validated in simulation in Gazebo.
+
+- **Goal:** extend the MOD-RRT* algorithm by incorporating robot dynamics, in order to generate dynamically feasible paths and perform real-time replanning for mobile robots in dynamic environments.
+- **Tools:** MOD-RRT*, motion planning, dynamic replanning, robot dynamics, Python, ROS, and Gazebo.
+- **Result:** the proposed framework improved the practical feasibility of the generated paths by taking robot dynamics into account, while maintaining the replanning capabilities of MOD-RRT* in dynamic environments. The approach was validated in simulation in Gazebo.
 
 ## [RL Hindsight goal ranking for pick and place tasks](https://github.com/Emilianogith/RL_project-Hindsight-Goal-Ranking-for-Pick-and-Place-tasks)
 
-Short description of the project.
+## [Reinforcement learning for pick-and-place in sparse reward environments](...)
 
-- Goal: ...
-- Tools: ...
-- Result: ...
+<img src="/assets/images/projects/RL/pick.gif" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
+
+This project focuses on the implementation and evaluation of a reinforcement learning approach for robotic manipulation in sparse reward environments, where learning successful behaviors is particularly challenging due to the limited feedback available to the agent. The approach is applied to a fixed-base manipulator performing a pick-and-place task in simulation, using the OpenAI Gym Fetch environment.
+
+- **Goal:** implement and evaluate a reinforcement learning framework based on Hindsight Goal Ranking (HGR) for a robotic pick-and-place task in a sparse reward setting.
+- **Tools:** reinforcement learning, Hindsight Goal Ranking (HGR), sparse reward learning, Python, OpenAI Gym, and the Fetch manipulation environment.
+- **Result:** the project showed how Hindsight Goal Ranking can support more effective learning in sparse reward environments, improving the training process for a simulated robotic pick-and-place task.
 
 ## [Calibration of the kinematic parameters of a front-rear tricycle-like real robot](https://github.com/Emilianogith/Probabilistic_Robotics_project-4-Calibration_of_a_-real-_Robot)
 
