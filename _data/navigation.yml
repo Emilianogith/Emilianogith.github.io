@@ -1,6 +1,4 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Resume"
     url: /assets/files/CV.pdf
   - title: "Portfolio"
