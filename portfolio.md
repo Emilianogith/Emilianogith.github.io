@@ -6,7 +6,8 @@ classes: wide
 author_profile: false
 ---
 
-## [Acrobatic obstacle avoidance for the TITA two-wheel legged robot](https://github.com/Emilianogith/TITA-dynamic-obstacle-avoidance)
+
+[**Acrobatic obstacle avoidance for the TITA two-wheel legged robot**](https://github.com/Emilianogith/TITA-dynamic-obstacle-avoidance)
 
 Short description of the project.
 
@@ -23,7 +24,7 @@ Short description of the project.
 - Tools: ...
 - Result: ...
 
-## [MOC-RRT for real time planning in dynamic environments](https://github.com/Emilianogith/MOD-RRT-for-real-time-planning-in-dynamic-environments)
+## [MOD-RRT for real time planning in dynamic environments](https://github.com/Emilianogith/MOD-RRT-for-real-time-planning-in-dynamic-environments)
 
 Short description of the project.
 
