@@ -15,6 +15,6 @@ During my Master’s degree, I also had the opportunity to explore the other sid
 
 From the beginning, I believed that AI would become a powerful tool for robotics. Combined with model-based methods, it can help unlock the full potential of robotic platforms. For this reason, I strongly believe in hybrid architectures, where classical robotics and AI work together, with a particular interest in the adoption of reinforcement learning.
 
-Among the topics that stimulate me the most, I enjoy discussing what the next big step in robotics will be — and, more importantly, how to make it happen.
+Among the topics that stimulate me the most, I enjoy discussing what the next big step in robotics will be and, more importantly, how to make it happen.
 
 Curiosity drives the vision. Engineering makes it real.
