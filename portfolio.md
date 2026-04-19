@@ -6,8 +6,6 @@ classes: wide
 author_profile: false
 ---
 
-# Projects
-
 ## Project 1
 Short description.
 
