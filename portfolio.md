@@ -54,19 +54,22 @@ This project focuses on the implementation and evaluation of a reinforcement lea
 
 ## [Calibration of the kinematic parameters of a front-rear tricycle-like real robot](https://github.com/Emilianogith/Probabilistic_Robotics_project-4-Calibration_of_a_-real-_Robot)
 
-Short description of the project.
+This project was developed for the Probabilistic Robotics course and focuses on the calibration of a real front–rear tricycle-like mobile robot. The work addresses the estimation of both the robot’s kinematic parameters and the position of its onboard sensor.
 
-- Goal: ...
-- Tools: ...
-- Result: ...
+- **Goal:** estimate and calibrate the kinematic parameters of a front–rear tricycle-like robot together with the position of its onboard sensor, in order to improve the accuracy of the robot model.
+- **Tools:** probabilistic robotics methods, parameter estimation, kinematic calibration, sensor calibration, Python.
+- **Result:** the project provided a calibrated model of the real robotic platform, improving the consistency between the robot’s measured behavior and its kinematic and sensing models.
 
 ## [Graph classification in context of noisy labeled Dataset](https://github.com/Emilianogith/noisy-graph-classification)
 
-Short description of the project.
 
-- Goal: ...
-- Tools: ...
-- Result: ...
+<img src="/assets/images/projects/noisy/architecture.png" alt="TITA robot" style="width: 70%; height: auto; display: block; margin: 0 auto;">
+
+This project builds on a provided baseline repository and focuses on improving model robustness in the presence of noisy labels. The work explores different training strategies and architectural choices to enhance prediction quality and generalization.
+
+- **Goal:** improve the robustness and predictive performance of the baseline model under noisy-label conditions by exploring alternative loss functions, hyperparameter tuning, and ensemble strategies.
+- **Tools:** Python, Deep Learning, Graph classification, pretraining and fine-tuning.
+- **Result:** the project provided an extensive experimental analysis of different strategies for handling label noise, highlighting the impact of robust loss functions, architectural and hyperparameter choices, and ensemble inference on the final prediction performance.
 
 ## [Shared control of a teleoperated echographic probe](https://github.com/Emilianogith/Shared-control-of-a-teleoperated-echographic-probe)
 
