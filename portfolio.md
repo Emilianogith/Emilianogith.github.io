@@ -83,11 +83,13 @@ This project explores the use of shared control for the teleoperation of an echo
 
 ## [ROS simple planner](https://github.com/Emilianogith/simple_planner)
 
-Short description of the project.
+<img src="/assets/images/projects/RP/diag_plan.png" alt="RP" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
-- Goal: ...
-- Tools: ...
-- Result: ...
+This project implements a path planning framework for ROS based on the A* algorithm, designed to generate safe paths by considering obstacle proximity through a precomputed distance map.
+
+- **Goal:** create a simple and effective planner for static and localization-based navigation.
+- **Tools:** ROS, C++, A*, AMCL.
+- **Result:** safe and efficient path generation in both static and localized navigation scenarios.
 
 ## [Pedestrian Intention Estimation on JAAD Dataset](https://github.com/Emilianogith/CV_project)
 
